@@ -1,1 +1,0 @@
-import{e}from"./index.6f6c0c64.js";const o=e("setting",{state:()=>({domain:window.localStorage.getItem("domain")||"",isSmallScreen:!0,isAnimation:!1,format:window.localStorage.getItem("format")||""})});export{o as u};
